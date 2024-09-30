@@ -1,7 +1,3 @@
-Here's a well-structured and visually appealing README file for your "Z-Fitness" project:
-
----
-
 # 🏋️‍♂️ Z-Fitness
 
 Welcome to **Z-Fitness** – your ultimate workout companion! Z-Fitness is a modern web application built with **React** and **Tailwind CSS** that provides personalized workout routines with exercise tracking, sets, and progress monitoring. 
